@@ -45,6 +45,9 @@ section .content video {
     max-width: 100%;
     border-radius: 10px;
 }
+.about-section {
+    display: flex;
+}
 
 .about-section, .unique-section, .rooms-section {
     opacity: 0;
