@@ -19,12 +19,14 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-bottom: 40px;
 }
 
 .nav {
     display: flex;
     justify-content: space-between;
     padding: 2rem;
+
 }
 
 .hero h1 {
