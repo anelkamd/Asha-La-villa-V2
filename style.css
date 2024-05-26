@@ -5,3 +5,32 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    font-family: poppins;
+    background-color: #f5f0e8;
+    margin: 0px 40px 0px 40px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    border-bottom: 1px solid grey;
+}
+h1 {
+    margin-bottom: 20px;
+}
+header .links {
+    margin-bottom: 20px;
+}
+header .links a{
+    margin: 20px;
+    text-decoration: none;
+    font-family: poppins, sans-serif;
+    color: black;
+}
+button {
+    padding: 5px;
+    border-radius: 50%;
+    border: none;
+}
